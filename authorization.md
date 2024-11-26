@@ -1,22 +1,22 @@
 # Protocol Authorization Agreement
 
 Instructions:
-1. Review the initial terms set by the researcher
-2. When you have agreed on terms or any modifications edit this file to fill in the details requested below
+
+0. If you haven't already please review the [README](./README.md) for an idea of what to expect from this process 
+
+1. Review the [initial terms](./initial-terms.md) set by the researcher (non-binding terms)
+
+2. When you are ready to proceed with the processs edit this file to add the requested protocol authorization details
+
 3. Commit directly to main branch
-4. Find the commit hash for this edit and DM it to the researcher on either Twitter or Telegram from a well known protocol associated account. 
-3. Your GitHub account and commit will serve as proof of authorization
 
-To be completed by authorized protocol representative.
+4. DM the hash for the authorization commit to the researcher on Twitter or Telegram from a well known protocol associated account.
 
----
-### Initial Researcher Terms:
-
-1. Estimated Severity: 
-2. Requested Reward: 
-3. Deadline for categorization (e.g. Confirmed, Non-Issue, or Won't Fix):  ___ (days or hours)
+5. Your GitHub account and commit will serve as proof of authorization.
 
 ---
+Details below are to be completed by an authorized protocol representative.
+
 ### Protocol Details:
 
 1. Protocol Name ("The Protocol"): 
