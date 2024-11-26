@@ -54,4 +54,6 @@ The researcher is expected to:
 ## Contact Information
 If you have any questions or concerns regarding the IndependentDisclosure process or the contents of this repository, please contact the researcher directly using the communication channels they have provided.
 
+If you have questions, comments, or concerns the researcher is unable to address you can reach out to a [TrustlessDAO representative](https://x.com/0xKorok) our DMs are open and we will do our best to respond within 24 hours.
+
 We appreciate your cooperation and commitment to enhancing the security of your protocol and the broader ecosystem.
