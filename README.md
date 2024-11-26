@@ -16,23 +16,16 @@ Here's what you can expect from the disclosure process:
 
 4. **Collaborative Discussion**: You can use the GitHub issue tracking and discussion features within this repository to engage in a collaborative discussion with the researcher. This allows for secure communication, clarification of the vulnerability details, and coordination of remediation efforts. These details may be revealed in the event of a dispute to help reach a resolution/settlement based on verifiable details and transparent communication/intentions during the negotiation process.
 
-5. **Categorization Timeline**: The researcher has included the suggested deadline for categorizing the vulnerability in [initial-terms.md](./initial-terms.md). This is the waiting period, to be observed by the researcher, to allow you to apply either the "confirmed", "non-issue", or "won't fix" designations.
+5. **Assessment Timeline**: The researcher has included the suggested deadline for assessing the vulnerability in [initial-terms.md](./initial-terms.md). This is the waiting period, to be observed by the researcher, to allow you to apply either the "confirmed", "non-issue", or "won't fix" designations.
     * This most often takes 24-72h. In special circumstances a longer period may be required. It is the responsibility of the protocol to provide reasonable evidence to justify an extended period (beyond the researchers initial suggestions).
 
-6. The protocol can make it's final severity decision known by editing [protocol-severity.md](./protocol-severity.md) to add the designation they believe is correct. This decision should be considered binding. 
-
-7. **Final Categorization**: The protocol has full control over which of the 3 designations ("confirmed", "non-issue", or "won't fix") they choose to apply to the issue. Before selecting a final categorization the protocol should carefully consider the implications of each:
-    * `Confirmed`: Begins the extended timeline for settlement / mitigation. Protocol should complete [authorization.md](./authorization.md) then DM the commit hash for the authorization to the researcher. Please send the hash from your official Telegram or Twitter. This way no dispute can arise as to the authenticity of the commitment. 
-
-    * `Non-Issue`: Ends the disclosure process. Gives researcher permission to go public with the full-report immediately.
-
-    * `Won't Fix`: This is a kind of confirmation. Protocol should decide if it would prefer to keep the issue private if so they should negotiate with the researcher on a fair price to keep their their work confidential. If no timely settlement is reached they can go public with the report.
+6. **Final Assessment**: The protocol has full control over which of the 3 validity designations ("confirmed", "non-issue", or "won't fix") they choose to apply to the issue. Before selecting a final designation the protocol should carefully consider the implications of each which are described in [protocol-assessment.md](./protocol-assessment.md). This decision should be considered binding.
 
 
 ## Protocol Expectations
 To ensure a smooth and effective disclosure process, we kindly request the following from you as a protocol representative:
 
-1. **Timely Response**: Please acknowledge receipt of the vulnerability report and provide an initial response within a reasonable timeframe (e.g., 48-72 hours).
+1. **Timely Response**: Please acknowledge receipt of the vulnerability report and provide an initial assessment within a reasonable timeframe (e.g., 48-72 hours).
 
 2. **Good Faith Collaboration**: Engage in good faith discussions with the researcher, providing transparency and cooperation throughout the process.
 
@@ -49,7 +42,7 @@ The researcher is expected to:
 
 3. **Responsible Disclosure**: Adhere to the agreed-upon timeline for disclosure and allow sufficient time for the protocol to address the vulnerability.
 
-4. **Confidentiality**: Maintain the confidentiality of the vulnerability details until the agreed-upon disclosure timeline has been reached or the vulnerability has been resolved or deemed a non-issue.
+4. **Confidentiality**: Maintain the confidentiality of the vulnerability details until the agreed-upon assessment timeline has been reached, the vulnerability has been resolved, or the final assessment given by the protocol permits disclosure.
 
 ## Contact Information
 If you have any questions or concerns regarding the IndependentDisclosure process or the contents of this repository, please contact the researcher directly using the communication channels they have provided.
