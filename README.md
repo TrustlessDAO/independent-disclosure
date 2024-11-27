@@ -3,7 +3,7 @@
 ## Overview
 Welcome to the IndependentDisclosure repository. This repository is part of a decentralized, peer-to-peer vulnerability disclosure process that aims to facilitate responsible and efficient communication between security researchers and protocols.
 
-## Next Steps
+## Protocol Action Items
 1. Review [report.md](./report.md) 
 2. Review [initial-terms.md](./initial-terms.md)
 3. Assign a validity in [protocol-assessment.md](./protocol-assessment.md)
