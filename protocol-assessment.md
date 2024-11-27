@@ -2,19 +2,27 @@
 
 Validity Implications:
 
-* `Confirmed`: Begins the extended timeline for settlement and mitigation. Protocol should complete [authorization.md](https://github.com/TrustlessDAO/independent-disclosure/blob/main/authorization.md) then DM the commit hash for the authorization to the researcher. Please send the hash from your official Telegram or Twitter. This way no dispute can arise as to the authenticity of the commitment. 
+* **Confirmed**:
+     * Initiates the extended timeline for settlement and mitigation. The protocol should complete the steps outlined in [authorization.md](./authorization.md) and then DM the commit hash for the authorization to the researcher.
+          * Please send the hash from your official Telegram or Twitter account to ensure there can be no dispute regarding the authenticity of the commitment.
 
-* `Non-Issue`: Ends the disclosure process. Gives researcher permission to go public with the full-report immediately
+* **Non-Issue**:
+     * Ends the disclosure process. The researcher is granted permission to make the full report public immediately.
 
-* `Won't Fix`: This is a kind of confirmation. Protocol should decide if it would prefer to keep the issue private. If so, they should negotiate with the researcher on a fair price to keep their work confidential. If no timely settlement is reached, they can go public with the report.
+* **Won't Fix**:
+     * A type of confirmation where the protocol opts not to address the issue.
+          * If the protocol prefers to keep the issue private, it should negotiate a fair price with the researcher for maintaining confidentiality.
+          * If a timely settlement is not reached, the researcher may make the report public.
 
 Assessment below is to be completed by an authorized protocol representative. Select one response for each.
 
 ---
 
-### 1. Assessed Validity: 
-     [Confirmed, Non-Issue, Won't Fix] 
 
+1. **Assessed Validity**:  ___________  
+   (Specify assessed validity: Confirmed, Non-Issue, Won't Fix)  
 
-### 2. Assessed Severity:
-     [None, Low, Medium, High, Critical]
+2. **Assessed Severity**:  ___________  
+   (Specify assessed severity: None, Low, Medium, High, Critical)  
+
+---
