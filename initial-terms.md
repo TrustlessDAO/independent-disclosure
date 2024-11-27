@@ -6,7 +6,7 @@ Initial terms are a rough estimates set by the researcher, who should present ev
 
 2. Requested Reward: 
 
-3. Deadline for categorization (e.g. Confirmed, Non-Issue, or Won't Fix):  ___ (days or hours)
+3. Deadline for validity assessment (e.g. Confirmed, Non-Issue, or Won't Fix):  ___ (days or hours)
     * Start Time: _______
     * End Time:   _______
 

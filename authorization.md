@@ -6,7 +6,7 @@ Instructions:
 
 1. Review the [initial terms](./initial-terms.md) set by the researcher (non-binding terms)
 
-2. When you are ready to proceed with the processs edit this file to add the requested protocol authorization details
+2. When you are ready to proceed edit this file to add the requested authorization details
 
 3. Commit directly to main branch
 
