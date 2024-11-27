@@ -1,6 +1,8 @@
 ### Initial Researcher Terms:
 
-Initial terms are a rough estimates set by the researcher, who should present evidence the justify the suggested values. These terms can be negotiated but too much time shouldn't be spend on this as initial terms are in no way binding terms. The [final-terms.md](./final-terms.md), which should be negotiated in good faith by both parties, will be the terms that should be considered binding once accepted and set on-chain.
+Initial terms are rough estimates set by the researcher, who should present evidence the justify the suggested values. These terms can be negotiated but too much time shouldn't be spent on this, as initial terms are in no way binding.The [final-terms.md](./final-terms.md), negotiated in good faith by both parties, should be considered binding once accepted and set on-chain
+
+
 
 1. Estimated Severity: 
 

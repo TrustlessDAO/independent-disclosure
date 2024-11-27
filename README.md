@@ -22,7 +22,7 @@ Here's what you can expect from the disclosure process:
 4. **Collaborative Discussion**: You can use the GitHub issue tracking and discussion features within this repository to engage in a collaborative discussion with the researcher. This allows for secure communication, clarification of the vulnerability details, and coordination of remediation efforts. These details may be revealed in the event of a dispute to help reach a resolution/settlement based on verifiable details and transparent communication/intentions during the negotiation process.
 
 5. **Assessment Timeline**: The researcher has included the suggested deadline for assessing the vulnerability in [initial-terms.md](./initial-terms.md). This is the waiting period, to be observed by the researcher, to allow you to apply either the "confirmed", "non-issue", or "won't fix" designations.
-    * This most often takes 24-72h. In special circumstances a longer period may be required. It is the responsibility of the protocol to provide reasonable evidence to justify an extended period (beyond the researchers initial suggestions).
+    * This most often takes 24-72 hours. In special circumstances a longer period may be required. It is the responsibility of the protocol to provide reasonable evidence to justify an extended period (beyond the researcher's initial suggestions).
 
 6. **Final Assessment**: The protocol has full control over which of the 3 validity designations ("confirmed", "non-issue", or "won't fix") they choose to apply to the issue. Before selecting a final designation the protocol should carefully consider the implications of each which are described in [protocol-assessment.md](./protocol-assessment.md). This decision should be considered binding.
 
