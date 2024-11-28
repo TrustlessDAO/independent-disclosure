@@ -1,7 +1,7 @@
 # IndependentDisclosure: Peer-to-Peer Vulnerability Disclosure
 
 ## Overview  
-Welcome to the **IndependentDisclosure** repository. This repository is part of a decentralized, peer-to-peer vulnerability disclosure process designed to facilitate responsible and efficient communication between security researchers and protocols.
+Welcome to the **IndependentDisclosure** repository. This repository is part of a peer-to-peer vulnerability disclosure process designed to facilitate responsible and efficient communication between security researchers and protocols.
 
 ---
 
