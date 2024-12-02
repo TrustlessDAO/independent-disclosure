@@ -40,6 +40,12 @@ Here’s an overview of the disclosure process:
 
 ---
 
+## Security Best Practices
+
+**Important**: Both parties should maintain a local copy of this repository as crucial evidence throughout the disclosure process. This provides robust protection against potential history modifications. See the [researcher guide](https://www.thetrustlessdao.com/guides/researcher.html) and [protocol guide](https://www.thetrustlessdao.com/guides/protocol.html) for specific details about when to sync your local copy and why this is important.
+
+---
+
 ## Protocol Expectations  
 
 To ensure a smooth and effective disclosure process, we request the following from protocol representatives:  
